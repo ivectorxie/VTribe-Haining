@@ -15,5 +15,14 @@ Thumbs.db
 __pycache__/
 *.pyc
 
+# Business docs (large binaries, managed on NAS)
+4.0 User Management/
+4.2 Content Management/
+4.3 Certificates/
+4.4 HRM/
+4.5 VTribe Logo/
+4.7 VTribe Web/
+4.8 Business Plan/
+
 # Temp
 _pdf_cache/
