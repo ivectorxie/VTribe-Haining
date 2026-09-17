@@ -1,0 +1,19 @@
+# Logs
+*.log
+stderr.log
+stdout.log
+
+# Large data files
+*.jsonl
+
+# OS files
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Temp
+_pdf_cache/
