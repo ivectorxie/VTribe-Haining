@@ -5,6 +5,7 @@ stdout.log
 
 # Large data files
 *.jsonl
+phone_matches.json
 
 # OS files
 desktop.ini
