@@ -27,3 +27,7 @@ __pycache__/
 
 # Temp
 _pdf_cache/
+
+# Large business dirs (managed on NAS)
+4.1 Marketing/
+4.7 VTribe RD/*.zip
